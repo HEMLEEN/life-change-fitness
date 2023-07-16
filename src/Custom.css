@@ -1,0 +1,23 @@
+.gym-Title{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+   
+}
+.gym-Title h1{
+  text-align: center;
+
+}
+.qrcode-value{
+    position: fixed;
+    top: 30%;
+    left: 45%;
+    text-align: center;
+   
+  }
+  
+.gym-Title{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+}
