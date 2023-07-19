@@ -2,7 +2,7 @@ import React from 'react';
 import QRCode from 'qrcode.react';
 
 const QRCodeGenerator = () => {
-  const qrCodeValue = 'https://bookmyshop.netlify.app'; 
+  const qrCodeValue = 'https://lifechangefitnesgym.netlify.app/'; 
   const upToDate = new Date().getFullYear()
   return (
     <>
